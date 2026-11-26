@@ -5,12 +5,11 @@ missing, the grader stops and gives 0 ("AI_USAGE.md missing or incomplete"). The
 is not scored, but your Track Mentor reads it and the W8 defence can ask about it.
 
 ## Tools
-I used Copilot in VS Code to implement the budget, streaming fallback, FastAPI endpoint,
-and focused validation described in the README.
+I used copilot only for clarification on the README requirements.
 
 ## What AI got wrong
-No incorrect implementation was identified during the initial review. I verified the
-requirements directly against the README and public tests before and after implementation.
+No incorrect implementation was identified during the initial review. I verified the requirements directly against the README and public tests before and after implementation.
+
 
 ## In my own words
 
